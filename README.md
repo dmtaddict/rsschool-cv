@@ -1,1 +1,1 @@
-# rsschool-cv
+[My CV in gh-pages brunch](https://dmtaddict.github.io/rsschool-cv/cv)

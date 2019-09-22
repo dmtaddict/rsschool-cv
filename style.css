@@ -1,0 +1,33 @@
+body{
+    background: #85C5EB;
+}
+
+.wrapper{
+    margin: 30px auto 0 auto;
+    max-width: 1024px;
+    font-family: "Roboto", "Arial", sans-serif;
+    background: #5BA9D7;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol {
+    display: block;
+}
+
+ol li{
+    display: list-item;
+    list-style: decimal inside;
+}
+
+ul li{
+    display: list-item;
+    list-style: disc inside;
+}
